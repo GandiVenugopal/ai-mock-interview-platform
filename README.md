@@ -4,8 +4,10 @@
 An intelligent full-stack web platform that simulates real-world coding interviews. Users can select jobs and take mock interviews with LeetCode-style questions, an in-browser code editor, multi-language support, and AI-powered code review.
 
 Live Links:
-ai-mock-interview-platform-phi.vercel.app
-mock.jobrecommender.online
+
+https://ai-mock-interview-platform-phi.vercel.app/
+
+https://mock.jobrecommender.online/
 
 ### ☁️ Infrastructure
 - AWS EC2 (Ubuntu) for backend
